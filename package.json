@@ -1,0 +1,10 @@
+{
+  "name": "kasia",
+  "version": "1.0.0",
+  "description": "School",
+  "main": "index.js",
+  "repository": "https://github.com/Madejczyk/kasia.git",
+  "author": "Madejczyk <jakub.madejczyk92@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
