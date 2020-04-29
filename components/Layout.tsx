@@ -10,7 +10,7 @@ const Layout: React.FunctionComponent<Props> = ({
   children,
   title = 'Kasia school',
 }) => (
-  <div>
+  <>
     <Head>
       <title>{title}</title>
       <meta charSet="utf-8" />
@@ -41,7 +41,7 @@ const Layout: React.FunctionComponent<Props> = ({
       <hr />
       <span>I'm here to stay (Footer)</span>
     </footer>
-  </div>
+  </>
 )
 
 export default Layout
